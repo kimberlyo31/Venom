@@ -1,0 +1,48 @@
+{
+	"name": "nebula-pandas",
+	"displayName": "Nebula Pandas",
+	"description": "ChirtleLovesDolls' lovely Nebula theme with a touch of Pandas.",
+	"version": "0.0.4",
+	"publisher": "GokturkSM",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"homepage": "https://github.com/gokturksm/Fikirler/tree/master/nebula-pandas/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gokturksm/Fikirler/tree/master/nebula-pandas"
+	},
+	"bugs": {
+		"url": "https://github.com/gokturksm/Fikirler/issues"
+	},
+	"license": "MIT",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"color",
+		"theme",
+		"color-theme",
+		"dark",
+		"pandas"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#27273A",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nebula Pandas Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nebula Pandas Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1784760804836,
+		"targetPlatform": "undefined",
+		"size": 222641
+	}
+}
